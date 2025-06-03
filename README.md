@@ -29,12 +29,12 @@ Optional:
 
 ##### Composer:
 ````
-composer require io-developer/php-whois
+composer require omergy/php-whois
 ````
 or composer.json:
 ````
 "require": {
-    "io-developer/php-whois": "^4.0"
+    "omergy/php-whois": "^4.0"
 }
 ````
 
